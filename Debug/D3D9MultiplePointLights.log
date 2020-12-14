@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\irmxj\documents\d3d9multiplepointlights\main.cpp(1085): warning C4996: 'GetVersion': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(110): note: 'GetVersion' 선언을 참조하십시오.
+  D3D9MultiplePointLights.vcxproj -> C:\Users\irmxj\Documents\D3D9MultiplePointLights\Debug\D3D9MultiplePointLights.exe
+  D3D9MultiplePointLights.vcxproj -> C:\Users\irmxj\Documents\D3D9MultiplePointLights\Debug\D3D9MultiplePointLights.pdb (Full PDB)

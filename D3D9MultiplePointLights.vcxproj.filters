@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="Content\Shaders\ambient.fx">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Content\Shaders\blinn_phong_sm20.fx">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Content\Shaders\blinn_phong_sm30.fx">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="Content\Textures\brick_color_map.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="Content\Textures\stone_color_map.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="Content\Textures\wood_color_map.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include Files">
+      <UniqueIdentifier>{c01d5340-7a97-4c8a-a32b-de0388601a54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{9a8edb13-4cc2-4683-993f-09bb8800931f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ed662462-74d7-45f5-a0c3-82428bff4d94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{531239ef-fdb0-4614-9d15-64f6dfa815b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures">
+      <UniqueIdentifier>{b9400559-0710-4f7f-8a6f-3e071e2e7be4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
